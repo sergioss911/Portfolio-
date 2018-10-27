@@ -1,21 +1,30 @@
-<head>
-
 <style type="text/css">
 			* {
 				font-family: Arial, Verdana, sans-serif;
 				color: #665544;
 				text-align: center;}
-			body {background-color: Black ;
+			body {background-color: DeepSkyBlue ;
 
-background-image:url(https://forums.macrumors.com/attachments/starwars-jpg.679769/);
-background-repeat: no-repeat;              
+background-image:url(https://wallpapercave.com/wp/8qnLWpb.jpg);
+background-size:contain;
+background-position:center;
 
 }
 
+           
+			
+			
+			#feature, .article {
+				height: 10em;
+				margin-bottom: 1em;
+				background-color: #6495ED;}
+
+
 
 h1 {
-    color: Orange;
-    margin-left: 40px;
+  color:yellow;
+  font-family: serif;
 } 
-</style>
-</head>
+
+
+		</style>
